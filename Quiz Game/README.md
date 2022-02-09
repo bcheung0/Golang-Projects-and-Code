@@ -1,4 +1,4 @@
-The following program is a simple Quiz. The program reads the CSV file for questions and waits for user response until the user finishes the questions or the timer runs out. 
+The following program is a simple Quiz game program. The program reads the CSV file for questions and waits for user response until the user finishes the questions or the timer runs out. 
 
 - Read from a CSV file
 - Keep track of score
